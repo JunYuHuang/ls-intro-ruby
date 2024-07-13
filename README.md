@@ -10,8 +10,8 @@ The following checklist is formatted as below:
 { Chapter Number }.{ Exercise Number } { Chapter Name }
 ```
 
-- [ ] 2.1 Preparations
-- [ ] 2.2 Preparations
+- [x] 2.1 Preparations
+- [x] 2.2 Preparations
 - [ ] 3.1 The Basics
 - [ ] 3.2 The Basics
 - [ ] 3.3 The Basics

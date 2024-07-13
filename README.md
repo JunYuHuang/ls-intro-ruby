@@ -7,7 +7,7 @@ My coding solutions for Launch School's `Introduction To Programming With Ruby` 
 The following checklist is formatted as below:
 
 ```
-{ Chapter Number }.{ Exercise Number } ({ Chapter Name })
+{ Chapter Number }.{ Exercise Number } { Chapter Name }
 ```
 
 - [ ] 2.1 Preparations

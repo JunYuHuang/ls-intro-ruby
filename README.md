@@ -12,13 +12,13 @@ The following checklist is formatted as below:
 
 - [x] 2.1 Preparations
 - [x] 2.2 Preparations
-- [ ] 3.1 The Basics
-- [ ] 3.2 The Basics
-- [ ] 3.3 The Basics
-- [ ] 3.4 The Basics
-- [ ] 3.5 The Basics
-- [ ] 3.6 The Basics
-- [ ] 3.7 The Basics
+- [x] 3.1 The Basics
+- [x] 3.2 The Basics
+- [x] 3.3 The Basics
+- [x] 3.4 The Basics
+- [x] 3.5 The Basics
+- [x] 3.6 The Basics
+- [x] 3.7 The Basics
 - [ ] 4.1 Variables
 - [ ] 4.2 Variables
 - [ ] 4.3 Variables

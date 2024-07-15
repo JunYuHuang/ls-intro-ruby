@@ -11,7 +11,7 @@
   - inner scope can access variables in an outer scope but the reverse is false
   - not all `do...end` or `{...}` pairs imply a block
     - loops are not blocks
-    - if such a pair does not immediately followe a method call,
+    - if such a pair does not immediately follow a method call,
       - it is a block
     - else, it is not a block
 - variable types (5)

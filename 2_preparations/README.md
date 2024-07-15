@@ -2,7 +2,7 @@
 
 ## Notes
 
-- install Ruby 3.2.0 with latest RubyGems
+- install Ruby 3.2.x with latest RubyGems
 - use VSCode as the code editor
 - Ruby style
 - how to read official Ruby docs

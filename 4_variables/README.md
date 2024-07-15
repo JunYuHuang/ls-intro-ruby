@@ -8,7 +8,11 @@
 - variable scope:
   - where a variable can be used in a program
   - Ruby variable scope: method definition or block
-  - inner scope can access variables in an outer scope but the reverse is false
+    - method scope is self-contained (i.e. private)
+      - variables made in a method is unusable outside the method
+    - block scope is public
+      - inner scope can access variables in an outer scope
+        - reverse is false
   - not all `do...end` or `{...}` pairs imply a block
     - loops are not blocks
     - if such a pair does not immediately follow a method call,

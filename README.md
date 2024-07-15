@@ -19,11 +19,11 @@ The following checklist is formatted as below:
 - [x] 3.5 The Basics
 - [x] 3.6 The Basics
 - [x] 3.7 The Basics
-- [ ] 4.1 Variables
-- [ ] 4.2 Variables
-- [ ] 4.3 Variables
-- [ ] 4.4 Variables
-- [ ] 4.5 Variables
+- [x] 4.1 Variables
+- [x] 4.2 Variables
+- [x] 4.3 Variables
+- [x] 4.4 Variables
+- [x] 4.5 Variables
 - [ ] 5.1 Methods
 - [ ] 5.2 Methods
 - [ ] 5.3 Methods

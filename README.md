@@ -39,14 +39,14 @@ The following checklist is formatted as below:
 - [x] 7.1 Loops & Iterators
 - [x] 7.2 Loops & Iterators
 - [x] 7.3 Loops & Iterators
-- [ ] 8.1 Arrays
-- [ ] 8.2 Arrays
-- [ ] 8.3 Arrays
-- [ ] 8.4 Arrays
-- [ ] 8.5 Arrays
-- [ ] 8.6 Arrays
-- [ ] 8.7 Arrays
-- [ ] 8.8 Arrays
+- [x] 8.1 Arrays
+- [x] 8.2 Arrays
+- [x] 8.3 Arrays
+- [x] 8.4 Arrays
+- [x] 8.5 Arrays
+- [x] 8.6 Arrays
+- [x] 8.7 Arrays
+- [x] 8.8 Arrays
 - [ ] 9.1 Hashes
 - [ ] 9.2 Hashes
 - [ ] 9.3 Hashes

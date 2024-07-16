@@ -1,0 +1,22 @@
+# Prompt
+
+What does each method return in the following example?
+
+```ruby
+arr = [15, 7, 18, 5, 12, 8, 5, 1]
+
+# 1.
+arr.index(5)
+
+# 2.
+arr.index[5]
+
+# 3.
+arr[5]
+```
+
+# My Solution
+
+1. Returns `3`.
+2. Returns `nil` due to raising an `NoMethodError` error.
+3. Returns `8`.

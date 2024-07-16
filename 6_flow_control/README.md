@@ -9,6 +9,13 @@
   - tells data to go somewhere based on parameters
   - via `if` statements, comparison ops, logical ops
 - comparison operators return a boolean value
+  - string comparison gotchas
+    - compared from left to right
+    - compares 2 strings based on first char from each that differ
+    - empty char is less than any non-empty char
+    - for digits, follows pattern of `'0'` < `'1'`
+  - raises an error if comparing values of unlike type
+    - e.g. compare a string vs an integer
 - boolean: either true or false only
 - AND (`&&`) and OR (`||`) operators
   - use short-circuit evaluation

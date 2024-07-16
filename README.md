@@ -30,12 +30,12 @@ The following checklist is formatted as below:
 - [x] 5.4 Methods
 - [x] 5.5 Methods
 - [x] 5.6 Methods
-- [ ] 6.1 Flow Control
-- [ ] 6.2 Flow Control
-- [ ] 6.3 Flow Control
-- [ ] 6.4 Flow Control
-- [ ] 6.5 Flow Control
-- [ ] 6.6 Flow Control
+- [x] 6.1 Flow Control
+- [x] 6.2 Flow Control
+- [x] 6.3 Flow Control
+- [x] 6.4 Flow Control
+- [x] 6.5 Flow Control
+- [x] 6.6 Flow Control
 - [ ] 7.1 Loops & Iterators
 - [ ] 7.2 Loops & Iterators
 - [ ] 7.3 Loops & Iterators

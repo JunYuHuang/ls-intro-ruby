@@ -1,0 +1,41 @@
+# Chapter 7: Loops & Iterators
+
+## Notes
+
+- loop: keeps running a code piece until a condition is met
+- `loop` method:
+  - like infinite loop
+  - makes new scope
+- loop controls
+  - `break` and `next` keywords
+- `while` loop: keeps running while condition is true
+  - use `while` keyword to create it
+  - `until` loops are the reverse of `while` loops i.e. `!while`
+  - no new scope
+- `do-while` loop: `while` loop but always runs 1+ times
+  - use `loop` method with `break` keyword
+  - not recommended: use `begin...end` + `while` statement
+  - makes new scope
+- `for` loop: loops over an item list
+  - use `for` keyword with some list
+  - valid lists: range, array
+  - returns the list
+  - no new scope
+- can add conditionals in loops
+- iterator: methods that loop over an item list
+  - e.g. `Array.each()` method
+  - block: to-be run code piece
+    - use `{}` or `do...end` syntax to close a block
+- recursion: loop by calling a method in itself
+  - works via the call stack under the hood
+  - idea: base case that returns + recursive case(s)
+- misc
+  - `.` dot operator
+  - range is a special type
+  - Ruby convention: prefer iterators over loops
+  - blocks create their own scope; keywords do not
+    - a `{...}` or `do...end` that follows a method call is a block
+- summary
+  - loops
+  - iterators
+  - recursion

@@ -36,9 +36,9 @@ The following checklist is formatted as below:
 - [x] 6.4 Flow Control
 - [x] 6.5 Flow Control
 - [x] 6.6 Flow Control
-- [ ] 7.1 Loops & Iterators
-- [ ] 7.2 Loops & Iterators
-- [ ] 7.3 Loops & Iterators
+- [x] 7.1 Loops & Iterators
+- [x] 7.2 Loops & Iterators
+- [x] 7.3 Loops & Iterators
 - [ ] 8.1 Arrays
 - [ ] 8.2 Arrays
 - [ ] 8.3 Arrays

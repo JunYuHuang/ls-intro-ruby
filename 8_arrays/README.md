@@ -1,0 +1,50 @@
+# Chapter 8: Arrays
+
+## Notes
+
+- array: ordered and 0-indexed item list
+  - can hold any and unlike types together (like JavaScript arrays)
+  - access by index with bracket syntax `[]`
+- change arrays
+  - `#pop` method
+  - `#push` or `#<<` method
+  - `#map` or `#collect` method
+  - `#delete_at` method
+  - `#delete` method
+  - `#uniq` method
+  - `#uniq!` method
+  - `#unshift` method: `#push` but to array's start
+- loop over arrays
+  - `#each` method
+  - `#select` method
+    - like JavaScript's `Array.prototype.filter()` method
+- `!`-suffixed methods
+  - usually means it mutates the caller but not always
+- mutating the caller and arguments
+- nested arrays
+- compare arrays with `==` operator
+- `#to_s` method
+- common array methods
+  - `#include?` method
+  - `#flatten` method
+  - `#each_index` method
+  - `#each_with_index` method
+  - `#sort` method
+  - `#product` method
+- `#each` vs `#map`
+  - same: both loop thru a list
+  - `each`:
+    - mutates the list
+    - if passed block, returns list else an `Enumerator` object
+    - use to loop
+  - `map`:
+    - does not mutate the list
+    - returns a new array that holds the block-returned values
+    - use to transform
+- misc
+  - pure vs impure methods
+    - impure method: mutates or changes the caller
+    - pure method: leaves the caller & returns a copy of it
+- summary
+  - arrays are very useful and widely used
+  - Ruby's `Array` class has many built-in helper methods

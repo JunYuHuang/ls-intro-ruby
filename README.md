@@ -24,12 +24,12 @@ The following checklist is formatted as below:
 - [x] 4.3 Variables
 - [x] 4.4 Variables
 - [x] 4.5 Variables
-- [ ] 5.1 Methods
-- [ ] 5.2 Methods
-- [ ] 5.3 Methods
-- [ ] 5.4 Methods
-- [ ] 5.5 Methods
-- [ ] 5.6 Methods
+- [x] 5.1 Methods
+- [x] 5.2 Methods
+- [x] 5.3 Methods
+- [x] 5.4 Methods
+- [x] 5.5 Methods
+- [x] 5.6 Methods
 - [ ] 6.1 Flow Control
 - [ ] 6.2 Flow Control
 - [ ] 6.3 Flow Control

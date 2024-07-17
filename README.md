@@ -47,18 +47,18 @@ The following checklist is formatted as below:
 - [x] 8.6 Arrays
 - [x] 8.7 Arrays
 - [x] 8.8 Arrays
-- [ ] 9.1 Hashes
-- [ ] 9.2 Hashes
-- [ ] 9.3 Hashes
-- [ ] 9.4 Hashes
-- [ ] 9.5 Hashes
-- [ ] 9.6 Hashes
-- [ ] 9.7 Hashes
-- [ ] 10.1 More Stuff
-- [ ] 10.2 More Stuff
-- [ ] 10.3 More Stuff
-- [ ] 10.4 More Stuff
-- [ ] 10.5 More Stuff
+- [x] 9.1 Hashes
+- [x] 9.2 Hashes
+- [x] 9.3 Hashes
+- [x] 9.4 Hashes
+- [x] 9.5 Hashes
+- [x] 9.6 Hashes
+- [x] 9.7 Hashes
+- [x] 10.1 More Stuff
+- [x] 10.2 More Stuff
+- [x] 10.3 More Stuff
+- [x] 10.4 More Stuff
+- [x] 10.5 More Stuff
 - [ ] 11.1 Exercises
 - [ ] 11.2 Exercises
 - [ ] 11.3 Exercises

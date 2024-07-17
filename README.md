@@ -62,7 +62,7 @@ The following checklist is formatted as below:
 - [x] 11.1 Exercises
 - [x] 11.2 Exercises
 - [x] 11.3 Exercises
-- [4] 11.4 Exercises
+- [x] 11.4 Exercises
 - [x] 11.5 Exercises
 - [x] 11.6 Exercises
 - [x] 11.7 Exercises

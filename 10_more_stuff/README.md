@@ -18,12 +18,15 @@
 - blocks and procs
   - block:
     - declare as method arg with `&`-prefix
+      - converts the block into a `Proc` object
     - call block with its `#call` method
   - proc: block in a proc object
     - stored in a variable that can be passed around
     - create with constructor `#new` method and passing it a block
     - call in method with its `#call` method
 - exception handling
+  - structure for handling possible errors in a program
+  - handles error without stopping the program wholly
   - `Exception` class
   - use `begin / rescue / end ` structure
     - Ruby's `try-catch` statement

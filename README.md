@@ -59,19 +59,19 @@ The following checklist is formatted as below:
 - [x] 10.3 More Stuff
 - [x] 10.4 More Stuff
 - [x] 10.5 More Stuff
-- [ ] 11.1 Exercises
-- [ ] 11.2 Exercises
-- [ ] 11.3 Exercises
-- [ ] 11.4 Exercises
-- [ ] 11.5 Exercises
-- [ ] 11.6 Exercises
-- [ ] 11.7 Exercises
-- [ ] 11.8 Exercises
-- [ ] 11.9 Exercises
-- [ ] 11.10 Exercises
-- [ ] 11.11 Exercises
-- [ ] 11.12 Exercises
-- [ ] 11.13 Exercises
-- [ ] 11.14 Exercises
-- [ ] 11.15 Exercises
-- [ ] 11.16 Exercises
+- [x] 11.1 Exercises
+- [x] 11.2 Exercises
+- [x] 11.3 Exercises
+- [4] 11.4 Exercises
+- [x] 11.5 Exercises
+- [x] 11.6 Exercises
+- [x] 11.7 Exercises
+- [x] 11.8 Exercises
+- [x] 11.9 Exercises
+- [x] 11.10 Exercises
+- [x] 11.11 Exercises
+- [x] 11.12 Exercises
+- [x] 11.13 Exercises
+- [x] 11.14 Exercises
+- [x] 11.15 Exercises
+- [x] 11.16 Exercises

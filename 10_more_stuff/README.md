@@ -15,6 +15,7 @@
   - `Time` class
 - variables as pointers
   - variable: pointer to a physical address space in memory
+  - method parameters are pointers to the value of the original variable
 - blocks and procs
   - block:
     - declare as method arg with `&`-prefix
